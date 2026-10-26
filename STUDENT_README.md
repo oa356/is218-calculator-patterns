@@ -126,7 +126,7 @@ The tests assert arithmetic results, factory construction and inherited `cls` be
 
 The supplied implementation was checked locally on Python 3.12 with 48 passing tests and 100% line coverage across `calculator`. The workflow runs the same test arguments on pushes, pull requests, and manual dispatches.
 
-**Successful GitHub Actions run: PASTE YOUR ACTUAL SUCCESSFUL RUN URL HERE BEFORE SUBMITTING.**
+**Successful GitHub Actions run: (https://github.com/oa356/is218-calculator-patterns/actions/runs/40385621618)**
 
 ## Coverage exclusions
 
